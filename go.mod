@@ -6,8 +6,8 @@ replace github.com/Sam12121/agent-plugins-grpc => ./agent-plugins-grpc
 
 require (
 	github.com/Sam12121/agent-plugins-grpc v0.0.0
-	github.com/Sam12121/golang_toae_sdk/client v0.0.0-20231201173641-092afefd00a2
-	github.com/Sam12121/golang_toae_sdk/utils v0.0.0-20231201173641-092afefd00a2
+	github.com/Sam12121/golang_toae_sdk/client v0.0.0-20231230142613-6905244251f0
+	github.com/Sam12121/golang_toae_sdk/utils v0.0.0-20231230142613-6905244251f0
 	github.com/Sam12121/vessel v0.12.0
 	github.com/fatih/color v1.15.0
 	github.com/flier/gohs v1.2.2
