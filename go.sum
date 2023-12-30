@@ -30,7 +30,7 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/Sam12121/golang_toae_sdk/client v0.0.0-20231230192613-6905244251f0 h1:AQY8TFWIveqiG+cbCvP2lncLpuVXcFKIxJPm6sn3nlY=
 github.com/Sam12121/golang_toae_sdk/client v0.0.0-20231230192613-6905244251f0/go.mod h1:+rchMc4YNjCoHo0YAwKsT+DRBNr1hdDG0WrvAOOCc5k=
-github.com/Sam12121/golang_toae_sdk/utils v0.0.0-20231230192613-6905244251f0 h1:b7PmvEUzF2b+XJ5XxZJNt+gkInw85cxryfoOfCkLL3c=
+github.com/Sam12121/golang_toae_sdk/utils v0.0.0-20231230192613-6905244251f0 h1:Z26rhRiHTfSlL6eaBI3b+XELquZhKePvzm9VAED3RW8=
 github.com/Sam12121/golang_toae_sdk/utils v0.0.0-20231230192613-6905244251f0/go.mod h1:jHS6Adf3VrxnKZZ3RY10BirtFlwWj99Zd4JBAhP9SqM=
 github.com/Sam12121/vessel v0.12.0 h1:DJLsLykjqd92nqxd6cHykk8TLIUfTaETkuzkEv70870=
 github.com/Sam12121/vessel v0.12.0/go.mod h1:9RK8g3OMhSF+2Tr+syyiFGTK64PC++8vnD0gh+A0VfI=
